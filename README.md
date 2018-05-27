@@ -1,1 +1,1 @@
-# PropertyFinder_MobApp
+React Native + RealmDB mobile application with AES encryption
